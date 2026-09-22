@@ -1,0 +1,5 @@
+python-telegram-bot==22.8
+yt-dlp==2026.8.19
+python-dotenv==1.2.3
+requests==2.34.2
+beautifulsoup4==4.15.0

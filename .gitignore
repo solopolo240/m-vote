@@ -1,0 +1,29 @@
+# Secrets
+.env
+*.env
+
+# Runtime data
+bot.log
+processed_videos.json
+keywords.json
+settings.json
+downloads/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+.buildozer/
+m-bot.zip
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# Non-deployed variants
+botv.py
+with_gui.py
